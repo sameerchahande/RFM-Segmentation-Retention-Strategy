@@ -1,6 +1,6 @@
 # RFM Segmentation & Retention Strategy
 
-This repository contains the Part 2 capstone project for RFM-based customer segmentation and retention strategy.
+This repository contains the  RFM-based customer segmentation and retention strategy.
 
 ## Project Overview
 
@@ -112,11 +112,9 @@ With a limited campaign budget, the recommended priority order is:
 - seaborn
 - scikit-learn
 - jupyter
+**Author**
+**Sameer Chahande**
+- GitHub: https://github.com/sameerchahande/RFM-Segmentation-Retention-Strategy
 
-## Author
+Email: sameerchahande04@gmail.com
 
-Capstone Project - Part 2: RFM Segmentation & Retention Strategy
-
-## License
-
-MIT
